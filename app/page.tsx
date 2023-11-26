@@ -11,8 +11,8 @@ export default async function Home() {
     <main className="">
     
     {/* <Signup/> */}
-      <Webpage/>
-      
+    
+      Welcome
     </main>
   )
 }
